@@ -80,8 +80,8 @@ year,stage,output,export
 2098,proc,lce,1749.859527
 2099,proc,lce,1769.212086
 2100,proc,lce,1788.690248
-2020,proc,loh,-61.76864951
-2021,proc,loh,-15.3600444
+2020,proc,loh,10.76864951
+2021,proc,loh,12.3600444
 2022,proc,loh,32.8622657
 2023,proc,loh,66.8964357
 2024,proc,loh,104.6310164
@@ -161,3 +161,4 @@ year,stage,output,export
 2098,proc,loh,1253.425086
 2099,proc,loh,1288.507402
 2100,proc,loh,1323.81741
+
